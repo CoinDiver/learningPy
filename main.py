@@ -1,6 +1,0 @@
-print('Hallo welt!')
-print('Wie lautet dein Name?')
-meinName = input()
-print('Schön dich zu sehen, ' + meinName)
-print('Dein Name hat so viele Buchstaben:')
-print(len(meinName))
